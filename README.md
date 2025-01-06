@@ -28,7 +28,7 @@ I have been working as Platform Engineer in London for almost 3 years which has 
   - **Security+**
 
 ## 🫶🏾 Let's connect:
-  [Linkedin](https://www.linkedin.com/in/kedwards-taylor/) and I'm going to begin blogging on [Medium](https://medium.com/)
+  [Linkedin](https://www.linkedin.com/in/kedwards-taylor/) and I'm going to begin blogging on [Medium]([https://medium.com/](https://medium.com/@kanesha.montana))
 
 ## 💗 Fun fact:
   - I am a spoken word artist and I've been writing poetry since I was 10 years old
