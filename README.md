@@ -1,7 +1,7 @@
 ## Hi everyone, I'm Kanesha 👋🏾
 
 ## 👩🏾‍💻 🌸 About Me 
-I have been working as Platform Engineer in London for almost 3 years which has allowed me to gain hands-on experience with **AWS**, **Azure**, **Terraform**, **Docker**, and **CI/CD tools**.
+I have been working as a Platform Engineer in London for almost 3 years which has allowed me to gain hands-on experience with **AWS**, **Azure**, **Terraform**, **Docker**, and **CI/CD tools**.
 
 ## 🌱 I’m currently learning
   - 30 Day **#DevOpsAllStarChallenge**
