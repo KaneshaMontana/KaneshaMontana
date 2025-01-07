@@ -9,7 +9,7 @@ I have been working as Platform Engineer in London for almost 3 years which has 
   - How to create my own **homelab**
   - **Kubernetes**
   - **AI** (prompt engineering, chatbots)
-  - **Security** (OWASP, Pentesting skills, NIST,)
+  - **Security** (OWASP, Pentesting skills, NIST)
 
 ## 🧠 My Current Certifications:
   - **GCP Cybersecurity x Women4Cyber 6 month course** (July '24)
@@ -28,8 +28,8 @@ I have been working as Platform Engineer in London for almost 3 years which has 
   - **Security+**
 
 ## 🫶🏾 Let's connect:
-  [Linkedin](https://www.linkedin.com/in/kedwards-taylor/) and I'm going to begin blogging on [Medium]([https://medium.com/](https://medium.com/@kanesha.montana))
+  [Linkedin](https://www.linkedin.com/in/kedwards-taylor/) and I'm going to begin blogging on [Medium](https://medium.com/@kanesha.montana)
 
 ## 💗 Fun fact:
-  - I am a spoken word artist and I've been writing poetry since I was 10 years old
+  - I'm a spoken word artist and I've been writing poetry since I was 10 years old
 
