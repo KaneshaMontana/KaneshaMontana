@@ -21,11 +21,11 @@ I have been working as a Platform Engineer in London for almost 3 years which ha
 
 ## 🤞🏾 Certs I'm hoping to pass in 2025:
   - **AWS SysOps Admin**
+  - **ISC2**
   - **AWS DevOps Engineer**
   - **AZ:104**
-  - **ISC2**
-  - **CKA**
-  - **Security+**
+  - **CKAD**
+
 
 ## 🫶🏾 Let's connect:
   [Linkedin](https://www.linkedin.com/in/kedwards-taylor/) and I'm going to begin blogging on [Medium](https://medium.com/@kanesha.montana)
