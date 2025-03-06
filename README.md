@@ -5,7 +5,7 @@ I have been working as a Platform Engineer in London for almost 3 years which ha
 
 ## 🌱 I’m currently learning
   - 30 Day **#DevOpsAllStarChallenge**
-  - **Python** (I've put it off for so long, but I'm dedicated now)
+  - **Python** (Building a CIDR Calculator)
   - How to create my own **homelab**
   - **Kubernetes**
   - **AI** (prompt engineering, chatbots)
