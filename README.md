@@ -4,12 +4,12 @@
 I have been working as a Platform Engineer in London for almost 3 years which has allowed me to gain hands-on experience with **AWS**, **Azure**, **Terraform**, **Docker**, and **CI/CD tools**.
 
 ## 🌱 I’m currently learning
-  - 30 Day **#DevOpsAllStarChallenge**
+  - 12 Week Cyber Security Bootcamp with **Seidea x Sage** preparing for CompTIA Security+ cert
   - **Python** (Building a CIDR Calculator)
   - How to create my own **homelab**
   - **Kubernetes**
   - **AI** (prompt engineering, chatbots)
-  - **Security** (OWASP, Pentesting skills, NIST)
+
 
 ## 🧠 My Current Certifications:
   - **GCP Cybersecurity x Women4Cyber 6 month course** (July '24)
@@ -20,6 +20,7 @@ I have been working as a Platform Engineer in London for almost 3 years which ha
 
 
 ## 🤞🏾 Certs I'm hoping to pass in 2025:
+  - CompTIA Security+
   - **AWS SysOps Admin**
   - **ISC2**
   - **AWS DevOps Engineer**
