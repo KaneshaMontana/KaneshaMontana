@@ -3,8 +3,8 @@
 ## 👩🏾‍💻 🌸 About Me 
 I have been working as a Platform Engineer in London for almost 3 years which has allowed me to gain hands-on experience with **AWS**, **Azure**, **Terraform**, **Docker**, and **CI/CD tools**.
 
-## 🌱 I’m currently learning
-  - 12 Week Cyber Security Bootcamp with **Seidea x Sage** preparing for CompTIA Security+ cert
+## 🌱 I’m currently learning:
+  - Cisco Python Essentials Part 1
   - **Python** (Building a CIDR Calculator)
   - How to create my own **homelab**
   - **Kubernetes**
@@ -19,7 +19,11 @@ I have been working as a Platform Engineer in London for almost 3 years which ha
   - **AZ-900** (Jan '22)
 
 
-## 🤞🏾 Certs I'm hoping to pass in 2025:
+## 🧠 Courses/Programs I've completed:
+  - 12 Week Cyber Security Bootcamp with **Seidea x Sage** preparing for CompTIA Security+ cert (April '25)
+
+
+## 🤞🏾 Certs I'm hoping to pass in 2026:
   - CompTIA Security+
   - **AWS SysOps Admin**
   - **ISC2**
